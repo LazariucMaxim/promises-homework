@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/qh4dcjsqpxvukuob?svg=true)](https://ci.appveyor.com/project/LazariucMaxim/promises-homework)
